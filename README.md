@@ -78,7 +78,7 @@ Los sonidos `.wav` de `Assets/Audio/` se generan con `ArcadeAudioGenerator.cs`.
 ````
 Assets/
 ├── Audio/            # Música de fondo y efectos (disparo, explosión, daño, victoria, derrota)
-├── Generated/        # Fuente arcade, material y sprites generados (barreras, píxel)
+├── Barrier/        # Fuente arcade, material y sprites generados (barreras, píxel)
 ├── Prefabs/          # Player, Invader1-3, PlayerShot, EnemyShot, Barrier, Explosion
 ├── Scenes/           # MainMenu, Game, Victory, GameOver
 ├── Scripts/
